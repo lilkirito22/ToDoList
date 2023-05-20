@@ -1,6 +1,6 @@
 # ToDoList
 
-Olá, desafio proposto pela rockseat seguindo a trilha ignite, esse foi o primeiro desafio proposto e venho aqui com a solução
+Olá, desafio proposto pela rockseat seguindo a trilha ignite, esse foi o primeiro desafio proposto.
 
 desafio que abrange conceitos de:
 
@@ -18,7 +18,7 @@ Nesse desafio, foi desenvolvido uma aplicação de controle de tarefas no estilo
 - Mostrar o progresso de conclusão das tarefas
 
 
-Tomei a liberdade de fazer algumas melhorias como adicionar um local storage e também o bloqueio da text-area como feito nas aulas, algo simples
+Tomei a liberdade de fazer algumas pequenas melhorias como adicionar um local storage e também o bloqueio do botao de criar uma tarefa para quando nao tiver nada escrito como feito nas aulas, algo simples
 porem deixa o programa muito mais legal
 
 
