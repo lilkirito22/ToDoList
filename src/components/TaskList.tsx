@@ -31,7 +31,7 @@ export function TaskList({tasks, onDelete, onComplete }:Props){
             </div>
             
             <div>
-            <p className={styles.tasksDone}>Concluidas</p>
+            <p className={styles.tasksDone}>Concluídas</p>
 
             <span>{completedTasks} de {tasksNumbers}</span> 
 
@@ -62,7 +62,7 @@ export function TaskList({tasks, onDelete, onComplete }:Props){
                         
                         <img className={styles.withoutTasks} src={WithoutTasks} alt="nothing" />
                         <div>
-                        <p> Voce ainda nao tem tarefas cadastradas</p>
+                        <p> Você ainda não tem tarefas cadastradas</p>
                         <span>Crie tarefas e organize seus itens a fazer</span>                   
                             </div>
 
