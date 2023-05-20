@@ -1,6 +1,6 @@
 # ToDoList
 
-Olá, desafio proposto pela rockseat seguindo a trilha ignite, esse foi o primeiro desafio proposto.
+Olá, desafio proposto pela Rocketseat seguindo a trilha ignite, esse foi o primeiro desafio proposto.
 
 desafio que abrange conceitos de:
 
